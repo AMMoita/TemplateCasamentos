@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title>Cerimónia</title>
+  <desc>Exemplo de imagem para a página do evento</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5efe3"/>
+      <stop offset="100%" stop-color="#e7dcc6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1100" fill="url(#bg)"/>
+  <circle cx="300" cy="230" r="120" fill="#d8c7a3" opacity="0.35"/>
+  <circle cx="1320" cy="860" r="170" fill="#d8c7a3" opacity="0.22"/>
+  <rect x="140" y="140" width="1320" height="820" rx="36" fill="#f7f3ea" stroke="#b7a786" stroke-width="3"/>
+  <g opacity="0.14">
+    <path d="M250 850 C500 640, 860 630, 1220 820" fill="none" stroke="#7b6a47" stroke-width="5"/>
+    <path d="M300 300 C420 180, 620 150, 760 260" fill="none" stroke="#7b6a47" stroke-width="4"/>
+  </g>
+  <text x="800" y="485" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="84" fill="#223126">Cerimónia</text>
+  <text x="800" y="570" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#5d665f">Exemplo de imagem para a página do evento</text>
+</svg>
